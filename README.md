@@ -1,3 +1,2 @@
-# hello_test
-
------sample long description
+# hello_test 
+# long description setting up git
